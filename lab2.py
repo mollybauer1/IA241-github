@@ -15,7 +15,7 @@ my_id=your_id=123
 my_id_str = '123'
 print(my_id_str)
 #6.6
-print(my_name+my_id_str)
+#print(my_name+my_id)
 #6.7
 print(my_name+my_id_str)
 #6.8
