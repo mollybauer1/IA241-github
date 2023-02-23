@@ -32,5 +32,3 @@ elif (age>= 65):
     print("Elder")
 else:
     print("Adult")
-    
-    
