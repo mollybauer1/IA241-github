@@ -45,4 +45,3 @@ i = 0
 num_list = [12,32,43,35]
 while i < len(num_list):
     del num_list[i]
-print(num_list)
